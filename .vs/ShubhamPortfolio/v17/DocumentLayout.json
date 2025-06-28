@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\shubhamportfolio\\shubhamportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CA6F191-5925-470B-A2A8-5EE588D4B460}|ShubhamPortfolio\\ShubhamPortfolio.csproj|solutionrelative:shubhamportfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Models\\Project.cs",
+              "RelativeToolTip": "ShubhamPortfolio\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:02:10.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ShubhamPortfolio\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-28T10:58:11.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShubhamPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:55:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShubhamPortfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:51:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShubhamPortfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:49:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ShubhamPortfolio\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:48:47.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "ShubhamPortfolio\\Views\\Home\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:48:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ShubhamPortfolio\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:48:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "ShubhamPortfolio\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\ShubhamPortfolio\\ShubhamPortfolio\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "ShubhamPortfolio\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:47:58.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

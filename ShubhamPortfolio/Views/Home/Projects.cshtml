@@ -1,0 +1,19 @@
+﻿@model List<ShubhamPortfolio.Models.Project>
+
+<h2>My Projects</h2>
+
+<div class="row">
+    @foreach (var project in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">@project.Title</h5>
+                    <p class="card-text">@project.Description</p>
+                    <p><strong>Tech:</strong> @project.Technologies</p>
+                    <a href="@project.Link" class="btn btn-primary" target="_blank">View on GitHub</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
